@@ -1,2 +1,3 @@
 # ki_pra_c
-todoc
+
+escribimos algo simplemente
