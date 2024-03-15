@@ -38,7 +38,8 @@ int main(){
 
 
     }else{
-        printf("El archivo no se cerro correctamente");
+        printf("El archivo no ls
+        
         return 1;
     }
     
