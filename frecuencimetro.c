@@ -9,6 +9,8 @@ PROCEDURE int main(int argc, char const *argv[])
     /* code */
     int main(){
         for (i=0;i<0;i++){
+            int i=10;
+            in E=7+i*5);
             
         }
     }
