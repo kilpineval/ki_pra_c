@@ -1,0 +1,3 @@
+Sea n un entero no negativo. Un espacio localmente homeomorfo a R^n es un espacio topologico de Hausdorff M tal que cada punto tiene una vecindad homeomorfa a un abierto de R^n. Si U(M es abierto  y pshi:U->R^n es un homeomorfismo sobre un abierto de R^n, la pareja (U,pshi) se llama carta de cordenadas.
+Se dice que dos cartas (U, pshi), (V, phi) son C^k compatibles,  k=0,1,...,00, si y solo si las transformaciones de cambio de coordenadas phi o pshi^-1:pshi(U N V)->R^n, pshi o phi^-1:phi(U N V)->R^n son de clase C^k.
+generamos una tersera linea

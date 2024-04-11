@@ -1,0 +1,5 @@
+include<16f876.h>
+use delay(clock=4000000
+fuses NOWDT,XT,NOPROTECT,NOLVP
+
+DEFINE USE_PORT_KBD TRUE)
