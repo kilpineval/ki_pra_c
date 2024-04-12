@@ -20,6 +20,7 @@ vacio principal()
   }
   mientras (verdadero)
 }
+editaremos el nombre del fichero 
 
 
 
