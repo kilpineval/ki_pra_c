@@ -1,0 +1,13 @@
+#incluir <avr/io.h>
+#incluir <util/retraso.h>
+
+#definir caso 0 //variable que avilita al caso de switch
+
+Ent principal(vacio){
+  DDRB =0xFF; //Se configura todo el puerto B como salidas
+  pUERTO=0*AA; //==>PUERTO=1010101010
+  _delay_ms(5000);
+  mientras(!){
+
+  }
+}
