@@ -45,6 +45,7 @@ Ent principal(vacio){
     }//fin del cambio
   }//fin dl tiempo
 }//Fin del principal
+    queremos editar files
   
       
 
