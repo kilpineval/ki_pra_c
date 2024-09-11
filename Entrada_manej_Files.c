@@ -6,7 +6,7 @@
 
 //r abre un fichero para lectura
 //w abre un fichero para escritura
-//a abre un fichero para agregarn datos al final delmismo.
+//a abre un fichero para agregar datos al final del mismo.
 //+ simbolo se utiliza para abrir el fichero en modo lectura y escritura
 //b el Fichero de tipo binario
 //t fichero de tipo texto
@@ -38,7 +38,7 @@ int main(){
 
 
     }else{
-        printf("El archivo no ls
+        printf("El archivo no se cerro correctamente");
         
         return 1;
     }
